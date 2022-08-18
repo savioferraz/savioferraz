@@ -1,11 +1,10 @@
 <h2> 👋 Hi there, what's up?!  </h2>
-
 <p> 🙂 My name is Sávio Ferraz </p>
-<p> 🖥️ I'm a web developer</p>
-<p>🔭 Currently working on front end projects</p>
-<p>🌱 Learning to program on back end projects</p>
-<p>📫 You can reach me on</p>
-<p>⚡ A little bit about myself: I'm a bass player 🎸, dog lover 🐶 and Youtube enthusiast 📺</p>
+<br> 🖥️ I'm a web developer 
+<br>🔭 Currently working on front end projects 
+<br>🌱 Learning to program on back end projects 
+<br>📫 You can reach me on
+<br>⚡ A little bit about myself: I'm a bass player 🎸, dog lover 🐶 and Youtube enthusiast 📺</p>
 
 
 
