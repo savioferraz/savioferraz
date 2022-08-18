@@ -1,5 +1,5 @@
 <h2> 👋 Hi there, what's up?!  </h2>
-<p> 🙂 My name is Sávio Ferraz </p>
+<p> 🙂 I'm Sávio Ferraz </p>
 <br> 🖥️ I'm a web developer 
 <br>🔭 Currently working on front end projects 
 <br>🌱 Learning to program on back end projects 
