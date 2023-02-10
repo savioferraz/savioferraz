@@ -1,6 +1,6 @@
 <h2> 👋 Hi there, what's up?!  </h2>
 <p> 🙂 I'm Sávio Ferraz </p>
-🖥️ I'm a web developer 
+🖥️ I'm a full-stack developer 
 <br>🔭 Currently working on full stack projects 
 <br>🌱 Learning to program on back end projects 
 <br>💬 If you wanna contact me, we can talk both in English or Portuguese, your choice! 
