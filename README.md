@@ -10,8 +10,8 @@
 <br>
 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savioferraz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savioferraz&show_icons=true) 
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savioferraz&layout=compact&langs_count=6)
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savioferraz&show_icons=true)
 
 
 
