@@ -1,8 +1,6 @@
 <h2> 👋 Hi there, what's up?!  </h2>
 <p> 🙂 I'm Sávio Ferraz </p>
 🖥️ I'm a full-stack developer 
-<br>🔭 Currently working on full stack projects 
-<br>🌱 Learning to program on back end projects 
 <br>💬 If you wanna contact me, we can talk both in English or Portuguese, your choice! 
 <br>⚡ A little bit about myself: I'm a bass player 🎸, dog lover 🐶, casual gamer ⌨️🖱️ and Youtube enthusiast 📺</p>
 📫 You can reach me on: <br><a href="https://www.linkedin.com/in/savioferraz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:savio.ferraz88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
